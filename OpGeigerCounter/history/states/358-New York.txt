@@ -1,0 +1,37 @@
+
+state={
+	id=358
+	name="STATE_358"
+
+	history={
+		owner = NYC
+		add_core_of = NYC
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 1
+			air_base = 4
+			3878 = {
+				naval_base = 3
+
+			}
+
+		}
+		
+		victory_points = {
+			3878 30.0 
+		}
+
+	}
+
+	provinces={
+		859 3878 
+	}
+	manpower=4182964
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

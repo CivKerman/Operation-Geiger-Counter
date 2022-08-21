@@ -1,0 +1,105 @@
+﻿capital = 358
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.45
+set_war_support = 0.10
+
+set_convoys = 30
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2046.11.4"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 12
+	socialism = 28
+	democratic = 39
+	elitism = 8
+	despotism = 7
+	order = 2
+	anarchism = 4
+}
+
+#Communism Party
+create_country_leader = {
+	name = "Sanjana Arya"
+	desc = ""
+	picture = ""
+	ideology = new_marxism
+	traits = {
+		#
+	}
+}
+
+#Socialism Party
+create_country_leader = {
+	name = "Josh Dante"
+	desc = ""
+	picture = ""
+	ideology = vanguard_socialism
+	traits = {
+		#
+	}
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Adrian Blair"
+	desc = ""
+	picture = ""
+	ideology = liberal_democracy
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "New York Police Department"
+	desc = ""
+	picture = ""
+	ideology = authoritarian_democracy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "King Winston I"
+	desc = ""
+	picture = ""
+	ideology = absolute_monarchy
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Todd Knox"
+	desc = ""
+	picture = ""
+	ideology = neo_socialism
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Gangs of Rikers Island"
+	desc = ""
+	picture = ""
+	ideology = vanguard_anarchism
+	traits = {
+		#
+	}
+}

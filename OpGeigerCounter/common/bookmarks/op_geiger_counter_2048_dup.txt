@@ -1,0 +1,50 @@
+bookmarks = {
+	bookmark = {
+		name = "The Great Resurgence"
+		desc = "Op_Geiger_Counter_LOC"
+		date = 2048.1.1.12
+		picture = "GFX_op_geiger_counter_bookmark"
+		default_country = "FRA"
+		default = yes
+		
+		"FRA"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_form_the_popular_front
+				FRA_revive_the_national_bloc
+				FRA_france_leads
+			}
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+
+		# minors from DLC ####
+		"CAN"={
+			minor = yes
+			history = "CAN_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				CAN_great_depression_1
+				CAN_conscription_crisis
+			}
+			focuses = {
+				CAN_skewer_the_eagle
+				CAN_north_american_alliance
+				CAN_join_comintern
+			}
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=836
+	name="STATE_836"
+	
+	history = {
+		owner = DKV
+		add_core_of = DKV
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		victory_points = {
+			1862 3 
+		}
+	}
+	
+	provinces={
+		1862 7756 7827 
+	}
+	manpower=38672
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

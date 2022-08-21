@@ -1,0 +1,27 @@
+state={
+	id=846
+	name="STATE_846"
+	
+	history = {
+		
+		owner = USA
+		add_core_of = USA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			}
+		victory_points = {
+			9708 5
+		}
+	}
+	
+	provinces={
+		6795 6916 9708 
+	}
+	manpower=492761
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}

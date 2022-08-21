@@ -1,0 +1,32 @@
+state={
+	id=837
+	name="STATE_837"
+	
+		resources={
+		steel=26.000
+		tungsten=20.000
+		aluminium=15.000
+	}
+	
+	history = {
+		owner = ELY
+		add_core_of = ELY
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			}
+		victory_points = {
+			10591 1 
+		}
+	}
+	
+	provinces={
+		10591 
+	}
+	manpower=8205
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

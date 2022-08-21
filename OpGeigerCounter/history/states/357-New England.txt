@@ -1,0 +1,31 @@
+
+state={
+	id=357
+	name="STATE_357"
+
+	history = {
+		owner = PRL
+		add_core_of = PRL
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		victory_points = {
+			3732 5
+		}
+
+		victory_points = {
+			7462 3
+		}
+	}
+
+	provinces={
+		3732 6719 7462
+	}
+	manpower=73693
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

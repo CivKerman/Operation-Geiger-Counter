@@ -1,0 +1,27 @@
+state={
+	id=854
+	name="STATE_854"
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		victory_points = {
+			9832 5
+		}
+
+	}
+
+	provinces={
+		9832 
+	}
+	manpower=608926
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

@@ -1,0 +1,37 @@
+﻿capital = 740
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.40
+set_war_support = 0.25
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = despotism
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 3
+	socialism = 1
+	democratic = 20
+	elitism = 0
+	despotism = 76
+	order = 0
+	anarchism = 0
+}
+
+#Depotism Party
+create_country_leader = {
+	name = "Silas I"
+	desc = ""
+	picture = ""
+	ideology = absolute_monarchy
+	traits = {
+		#
+	}
+}

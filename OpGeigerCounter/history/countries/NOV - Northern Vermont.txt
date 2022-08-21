@@ -1,0 +1,111 @@
+﻿capital = 849
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.45
+set_war_support = 0.45
+
+set_convoys = 10
+
+#Foerign Politics
+add_opinion_modifier = {
+    target = SVT
+    modifier = traitor_regime
+}
+
+
+#Domestic Politics
+set_politics = {
+	ruling_party = communism
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 75
+	socialism = 20
+	democratic = 3
+	elitism = 1
+	despotism = 1
+	order = 0
+	anarchism = 0
+}
+
+#Communism Party
+create_country_leader = {
+	name = "Sonya Pavlova"
+	desc = ""
+	picture = ""
+	ideology = new_marxism
+	traits = {
+		#
+	}
+}
+
+#Socialism Party
+create_country_leader = {
+	name = "Logan Saunders"
+	desc = ""
+	picture = ""
+	ideology = vanguard_socialism
+	traits = {
+		#
+	}
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Vermont Trade League Council"
+	desc = ""
+	picture = ""
+	ideology = left_wing_populism
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "Max Wilson"
+	desc = ""
+	picture = ""
+	ideology = guided_democracy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "Max Wilson"
+	desc = ""
+	picture = ""
+	ideology = military_junta
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Max Wilson"
+	desc = ""
+	picture = ""
+	ideology = national_order
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Max Wilson"
+	desc = ""
+	picture = ""
+	ideology = vanguard_anarchism
+	traits = {
+		#
+	}
+}

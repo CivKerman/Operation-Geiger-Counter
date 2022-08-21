@@ -1,0 +1,26 @@
+state={
+	id=852
+	name="STATE_852"
+
+	history = {
+		owner = PLY
+		add_core_of = PLY
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		victory_points = {
+			3906 5
+		}
+	}
+
+	provinces={
+		905 3906 
+	}
+	manpower=74236
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}

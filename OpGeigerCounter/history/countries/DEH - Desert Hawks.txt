@@ -1,0 +1,109 @@
+﻿capital = 839
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.45
+set_war_support = 0.45
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = despotism
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 6
+	socialism = 7
+	democratic = 2
+	elitism = 3
+	despotism = 82
+	order = 0
+	anarchism = 0
+}
+
+#Diplomacy
+add_opinion_modifier = {
+    target = DES
+    modifier = rival_gang
+}
+
+#Communism
+create_country_leader = {
+	name = "John Banner"
+	desc = ""
+	picture = ""
+	ideology = military_communism
+	traits = {
+		#
+	}
+}
+
+#Socialism
+create_country_leader = {
+	name = "Taylor Smith"
+	desc = ""
+	picture = ""
+	ideology = vanguard_socialism
+	traits = {
+		#
+	}
+}
+
+#Democratic
+create_country_leader = {
+	name = "Desert Hawks Council"
+	desc = ""
+	picture = ""
+	ideology = market_liberalism
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "Desert Hawks Council"
+	desc = ""
+	picture = ""
+	ideology = oligarchy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "Vincent Dunn"
+	desc = ""
+	picture = ""
+	ideology = banditry
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Desert Hawks Council"
+	desc = ""
+	picture = ""
+	ideology = national_order
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Hawthorne Resistance Militia"
+	desc = ""
+	picture = ""
+	ideology = anarcho_communism
+	traits = {
+		#
+	}
+}

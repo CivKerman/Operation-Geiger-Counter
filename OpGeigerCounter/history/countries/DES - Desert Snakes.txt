@@ -1,0 +1,109 @@
+﻿capital = 838
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.35
+set_war_support = 0.30
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = despotism
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 0
+	socialism = 0
+	democratic = 14
+	elitism = 0
+	despotism = 86
+	order = 0
+	anarchism = 0
+}
+
+#Foerign Politics
+add_opinion_modifier = {
+    target = DEH
+    modifier = rival_gang
+}
+
+#Communism
+create_country_leader = {
+	name = "Carver's People Militia"
+	desc = ""
+	picture = ""
+	ideology = military_communism
+	traits = {
+		#
+	}
+}
+
+#Socialism
+create_country_leader = {
+	name = "Carver's People Militia"
+	desc = ""
+	picture = ""
+	ideology = libertarian_marxism
+	traits = {
+		#
+	}
+}
+
+#Democratic
+create_country_leader = {
+	name = "Nye County Militia"
+	desc = ""
+	picture = ""
+	ideology = liberal_democracy
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "Desert Snakes Inner Circle"
+	desc = ""
+	picture = ""
+	ideology = oligarchy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "Larry Conway"
+	desc = ""
+	picture = ""
+	ideology = banditry
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Larry Conway"
+	desc = ""
+	picture = ""
+	ideology = national_order
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Carver's People Militia"
+	desc = ""
+	picture = ""
+	ideology = anarcho_communism
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,91 @@
+#reload countrycolors
+
+ACA = {
+	color = rgb { 220  129  21 }
+	color_ui = rgb { 220  129  21 }
+}
+
+BST = {
+	color = rgb { 102  201  213 }
+	color_ui = rgb { 102  201  213 }
+}
+
+BUF = {
+	color = rgb { 254  205  101 }
+	color_ui = rgb { 254  205  101 }
+}
+
+CAL = {
+	color = rgb { 254  218  0 }
+	color_ui = rgb { 254  218  0 }
+}
+
+CAS = {
+	color = rgb { 8  93  5 }
+	color_ui = rgb { 8  93  5 }
+}
+
+DEH = {
+	color = rgb { 58  167  72 }
+	color_ui = rgb { 58  167  72 }
+}
+
+DES = {
+	color = rgb { 201  33  39 }
+	color_ui = rgb { 201  33  39 }
+}
+
+DKV = {
+	color = rgb { 56  83  164 }
+	color_ui = rgb { 56  83  164 }
+}
+
+ELY = {
+	color = rgb { 222  100  1 }
+	color_ui = rgb { 222  100  1 }
+}
+
+NAW = {
+	color = rgb { 0  0  0 }
+	color_ui = rgb { 0  0  0 }
+}
+
+NOV = {
+	color = rgb { 204  0  51 }
+	color_ui = rgb { 204  0  51 }
+}
+
+NYC = {
+	color = rgb { 0  51  153 }
+	color_ui = rgb { 0  51  153 }
+}
+
+ORG = {
+	color = rgb { 255  132  0 }
+	color_ui = rgb { 255  132  0 }
+}
+
+SVT = {
+	color = rgb { 73  183  73 }
+	color_ui = rgb { 73  183  73 }
+}
+
+PLY = {
+	color = rgb { 255  255  255 }
+	color_ui = rgb { 255  255  255 }
+}
+
+PRL = {
+	color = rgb { 0  0  102 }
+	color_ui = rgb { 0  0  102 }
+}
+
+USA = {
+	color = rgb { 67  123  237 }
+	color_ui = rgb { 67  123  237 }
+}
+
+VAN = {
+	color = rgb { 204  153  51 }
+	color_ui = rgb { 204  153  51 }
+}

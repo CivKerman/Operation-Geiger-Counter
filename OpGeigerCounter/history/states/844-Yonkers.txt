@@ -1,0 +1,27 @@
+state={
+	id=844
+	name="STATE_844"
+	
+	history = {
+		owner = NYC
+		add_core_of = NYC
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			}
+		victory_points = {
+			6911 5 
+		}
+	}
+	
+	provinces={
+		3894 6911 
+	}
+	manpower=158672
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+}

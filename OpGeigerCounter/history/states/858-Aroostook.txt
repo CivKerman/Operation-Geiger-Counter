@@ -1,0 +1,26 @@
+state={
+	id=858
+	name="STATE_858"
+
+	history = {
+		owner = ACA
+		add_core_of = ACA
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		victory_points = {
+			4287  3
+		}
+	}
+
+	provinces={
+		4287 10247 12221 
+	}
+	manpower=27512
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

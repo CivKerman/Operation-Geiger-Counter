@@ -1,0 +1,26 @@
+state={
+	id=848
+	name="STATE_848"
+	
+	history = {
+		owner = ORG
+		add_core_of = ORG
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		victory_points = {
+			9774 3
+		}
+	}
+	
+	provinces={
+		706 9673 9774 11660 
+	}
+	manpower=188061
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

@@ -1,0 +1,103 @@
+﻿capital = 836
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.65
+set_war_support = 0.15
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = democratic
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 1
+	socialism = 6
+	democratic = 47
+	elitism = 28
+	despotism = 18
+	order = 0
+	anarchism = 0
+}
+
+#Communism Party
+create_country_leader = {
+	name = "Duck Valley People's Council"
+	desc = ""
+	picture = ""
+	ideology = new_marxism
+	traits = {
+		#
+	}
+}
+
+#Socialism Party
+create_country_leader = {
+	name = "Duck Valley People's Council"
+	desc = ""
+	picture = ""
+	ideology = agrarian_socialism
+	traits = {
+		#
+	}
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Council of Duck Valley"
+	desc = ""
+	picture = ""
+	ideology = centrism
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "Council of Duck Valley"
+	desc = ""
+	picture = ""
+	ideology = guided_democracy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "New Shoshoni Council"
+	desc = ""
+	picture = ""
+	ideology = absolute_monarchy
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "United Duck Valley Bloc Council"
+	desc = ""
+	picture = ""
+	ideology = national_order
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Duck Valley Confederation Council"
+	desc = ""
+	picture = ""
+	ideology = anarcho_primitivism
+	traits = {
+		#
+	}
+}

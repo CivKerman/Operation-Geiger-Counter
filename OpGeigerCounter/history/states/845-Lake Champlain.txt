@@ -1,0 +1,27 @@
+state={
+	id=845
+	name="STATE_845"
+	
+	history = {
+		
+		owner = NOV
+		add_core_of = NOV
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		victory_points = {
+			11662 3 
+		}
+	}
+	
+	provinces={
+		3602 10381 11662 
+	}
+	manpower=105821
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

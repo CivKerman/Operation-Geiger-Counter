@@ -1,0 +1,105 @@
+﻿capital = 851
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.65
+set_war_support = 0.15
+
+set_convoys = 30
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2047.12.2"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 11
+	socialism = 17
+	democratic = 42
+	elitism = 25
+	despotism = 4
+	order = 0
+	anarchism = 1
+}
+
+#Communism Party
+create_country_leader = {
+	name = "Nicholas Bell"
+	desc = ""
+	picture = ""
+	ideology = new_marxism
+	traits = {
+		#
+	}
+}
+
+#Socialism Party
+create_country_leader = {
+	name = "Nicholas Bell"
+	desc = ""
+	picture = ""
+	ideology = democratic_socialism
+	traits = {
+		#
+	}
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Gabriel West"
+	desc = ""
+	picture = ""
+	ideology = market_liberalism
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "New England Trade Federation Council"
+	desc = ""
+	picture = ""
+	ideology = oligarchy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "Shawn Stone"
+	desc = ""
+	picture = ""
+	ideology = civilian_dictatorship
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Shawn Stone"
+	desc = ""
+	picture = ""
+	ideology = ultranationalism
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Jacob Gordon"
+	desc = ""
+	picture = ""
+	ideology = anarcho_communism
+	traits = {
+		#
+	}
+}

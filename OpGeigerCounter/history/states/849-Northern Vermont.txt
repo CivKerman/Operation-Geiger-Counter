@@ -1,0 +1,27 @@
+state={
+	id=849
+	name="STATE_849"
+	
+	history = {
+		owner = NOV
+		add_core_of = NOV
+		add_claim_by = USA
+		add_claim_by = SVT
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		victory_points = {
+			4445 5
+		}
+	}
+	
+	provinces={
+		4445 7629 13158 
+	}
+	manpower=381053
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}

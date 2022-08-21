@@ -1,0 +1,105 @@
+﻿capital = 358
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.45
+set_war_support = 0.10
+
+set_convoys = 30
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2046.11.4"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 3
+	socialism = 14
+	democratic = 52
+	elitism = 26
+	despotism = 4
+	order = 0
+	anarchism = 1
+}
+
+#Communism Party
+create_country_leader = {
+	name = "Henry Tales"
+	desc = ""
+	picture = ""
+	ideology = new_marxism
+	traits = {
+		#
+	}
+}
+
+#Socialism Party
+create_country_leader = {
+	name = "Henry Tales"
+	desc = ""
+	picture = ""
+	ideology = council_communism
+	traits = {
+		#
+	}
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Lincoln Sanders"
+	desc = ""
+	picture = ""
+	ideology = market_liberalism
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "University at Buffalo"
+	desc = ""
+	picture = ""
+	ideology = guided_democracy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "Buffalo National Guard"
+	desc = ""
+	picture = ""
+	ideology = military_junta
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Buffalo National Guard"
+	desc = ""
+	picture = ""
+	ideology = national_order
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Buffalo Chapter of Antifa"
+	desc = ""
+	picture = ""
+	ideology = anarcho_communism
+	traits = {
+		#
+	}
+}

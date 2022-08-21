@@ -1,0 +1,27 @@
+state={
+	id=850
+	name="STATE_850"
+	
+	history = {
+		owner = SVT
+		add_core_of = SVT
+		add_claim_by = USA
+		add_claim_by = NOV
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		victory_points = {
+			9675 3
+		}
+	}
+	
+	provinces={
+		9675 
+	}
+	manpower=109682
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

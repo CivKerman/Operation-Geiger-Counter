@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_op_geiger_counter_bookmark"
+		texturefile = "gfx/interface/op_geiger_counter_2048.dds"
+	}	
+}

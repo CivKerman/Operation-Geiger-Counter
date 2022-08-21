@@ -1,0 +1,25 @@
+state={
+	id=838
+	name="STATE_838"
+	
+	history = {
+		owner = DES
+		add_core_of = DES
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 1
+			}
+		victory_points = {
+			12399 1 
+		}
+	}
+	
+	provinces={
+		4816 12399 
+	}
+	manpower=28602
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

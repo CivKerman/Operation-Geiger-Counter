@@ -1,0 +1,26 @@
+
+state={
+	id=379
+	name="STATE_379"
+
+	history={
+		owner = CAL
+		add_core_of = CAL
+		add_claim_by = USA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			4799 10 
+		}
+	}
+
+	provinces={
+		4799 7879 12425 
+	}
+	manpower=103628
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

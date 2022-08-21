@@ -1,0 +1,103 @@
+﻿capital = 357
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.45
+set_war_support = 0.25
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = despotism
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 5
+	socialism = 6
+	democratic = 11
+	elitism = 14
+	despotism = 64
+	order = 0
+	anarchism = 0
+}
+
+#Communism Party
+create_country_leader = {
+	name = "Joel Rogers"
+	desc = ""
+	picture = ""
+	ideology = new_marxism
+	traits = {
+		#
+	}
+}
+
+#Socialism Party
+create_country_leader = {
+	name = "Joel Rogers"
+	desc = ""
+	picture = ""
+	ideology = libertarian_marxism
+	traits = {
+		#
+	}
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Thomas Watts"
+	desc = ""
+	picture = ""
+	ideology = constitutional_monarchism
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "Portlandian Regency Council"
+	desc = ""
+	picture = ""
+	ideology = oligarchy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "Queen Eva I"
+	desc = ""
+	picture = ""
+	ideology = absolute_monarchy
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Queen Eva I"
+	desc = ""
+	picture = ""
+	ideology = national_order
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Bobby Hill"
+	desc = ""
+	picture = ""
+	ideology = anarcho_communism
+	traits = {
+		#
+	}
+}

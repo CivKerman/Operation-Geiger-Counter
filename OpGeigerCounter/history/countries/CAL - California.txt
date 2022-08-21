@@ -1,0 +1,61 @@
+﻿capital = 378
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.45
+set_war_support = 0.55
+
+set_convoys = 25
+
+set_politics = {
+	ruling_party = elitism
+	last_election = "2045.3.5"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 6
+	socialism = 13
+	democratic = 25
+	elitism = 34
+	despotism = 12
+	order = 4
+	anarchism = 6
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Alexandra Thompson"
+	desc = ""
+	picture = ""
+	ideology = liberal_democracy
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "George Lee"
+	desc = ""
+	picture = ""
+	ideology = guided_democracy
+	traits = {
+		#
+	}
+}
+
+#Depotism Party
+create_country_leader = {
+	name = "Richard O'Conner"
+	desc = ""
+	picture = ""
+	ideology = civilian_dictatorship
+	traits = {
+		#
+	}
+}

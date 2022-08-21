@@ -1,0 +1,26 @@
+state={
+	id=840
+	name="STATE_840"
+	
+	history = {
+		owner = BUF
+		add_core_of = BUF
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		victory_points = {
+			11654 10 
+		}
+	}
+	
+	provinces={
+		734 6707 9664 11654 
+	}
+	manpower=582976
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

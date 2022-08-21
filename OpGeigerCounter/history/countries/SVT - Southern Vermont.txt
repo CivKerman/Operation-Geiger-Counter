@@ -1,0 +1,110 @@
+﻿capital = 850
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.35
+set_war_support = 0.60
+
+set_convoys = 5
+
+#Foerign Politics
+add_opinion_modifier = {
+    target = NOV
+    modifier = traitor_regime
+}
+
+#Domestic Politics
+set_politics = {
+	ruling_party = elitism
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 1
+	socialism = 20
+	democratic = 27
+	elitism = 36
+	despotism = 14
+	order = 0
+	anarchism = 2
+}
+
+#Communism Party
+create_country_leader = {
+	name = "Colt Richards"
+	desc = ""
+	picture = ""
+	ideology = new_marxism
+	traits = {
+		#
+	}
+}
+
+#Socialism Party
+create_country_leader = {
+	name = "David Mitchell"
+	desc = ""
+	picture = ""
+	ideology = democratic_socialism
+	traits = {
+		#
+	}
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Seth Frederick"
+	desc = ""
+	picture = ""
+	ideology = conservative_democracy
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "Sean Cox"
+	desc = ""
+	picture = ""
+	ideology = guided_democracy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "Sean Cox"
+	desc = ""
+	picture = ""
+	ideology = military_junta
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Ryder McConnell"
+	desc = ""
+	picture = ""
+	ideology = national_order
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Samantha Hunter"
+	desc = ""
+	picture = ""
+	ideology = vanguard_anarchism
+	traits = {
+		#
+	}
+}

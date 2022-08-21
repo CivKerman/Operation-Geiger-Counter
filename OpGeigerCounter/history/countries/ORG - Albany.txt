@@ -1,0 +1,103 @@
+﻿capital = 343
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.55
+set_war_support = 0.45
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = despotism
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 15
+	socialism = 0
+	democratic = 6
+	elitism = 3
+	despotism = 76
+	order = 0
+	anarchism = 0
+}
+
+#Communism Party
+create_country_leader = {
+	name = "Leyla Haper"
+	desc = ""
+	picture = ""
+	ideology = military_communism
+	traits = {
+		#
+	}
+}
+
+#Socialism Party
+create_country_leader = {
+	name = "Leyla Haper"
+	desc = ""
+	picture = ""
+	ideology = democratic_socialism
+	traits = {
+		#
+	}
+}
+
+#Democratic Party
+create_country_leader = {
+	name = "Trevon Bray"
+	desc = ""
+	picture = ""
+	ideology = conservative_democracy
+	traits = {
+		#
+	}
+}
+
+#Elitism Party
+create_country_leader = {
+	name = "New York Federation Merchant Guilds"
+	desc = ""
+	picture = ""
+	ideology = oligarchy
+	traits = {
+		#
+	}
+}
+
+#Despotism Party
+create_country_leader = {
+	name = "Jett Snow"
+	desc = ""
+	picture = ""
+	ideology = banditry
+	traits = {
+		#
+	}
+}
+
+#Order Party
+create_country_leader = {
+	name = "Jett Snow"
+	desc = ""
+	picture = ""
+	ideology = national_order
+	traits = {
+		#
+	}
+}
+
+#Anarchism Party
+create_country_leader = {
+	name = "Jett Snow"
+	desc = ""
+	picture = ""
+	ideology = vanguard_anarchism
+	traits = {
+		#
+	}
+}

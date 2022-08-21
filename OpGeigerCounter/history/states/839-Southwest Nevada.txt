@@ -1,0 +1,26 @@
+state={
+	id=839
+	name="STATE_839"
+	
+	history = {
+		owner = DEH
+		add_core_of = DEH
+		add_claim_by = USA
+		add_claim_by = DES
+		
+		buildings = {
+			infrastructure = 1
+			}
+		victory_points = {
+			4607 1 
+		}
+	}
+	
+	provinces={
+		4521 4607 
+	}
+	manpower=10295
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

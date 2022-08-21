@@ -1,0 +1,25 @@
+state={
+	id=859
+	name="STATE_859"
+
+	history = {
+		owner = ACA
+		add_core_of = ACA
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		victory_points = {
+			12459 5
+		}
+	}
+
+	provinces={
+		10318 12202 12459 
+	}
+	manpower=28396
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

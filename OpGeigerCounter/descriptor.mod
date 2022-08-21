@@ -1,0 +1,22 @@
+version="v0.1"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Ideologies"
+	"Technologies"
+	"Sound"
+	"National Focuses"
+	"Military"
+	"Map"
+}
+name="Operation Geiger Counter"
+supported_version="1.11.12"
+
+replace_path="history/countries"
+replace_path="common/countries"
+replace_path="common/country_tags"
+replace_path="events"
+replace_path="common/bookmarks"
+#replace_path="history/states"

@@ -1,0 +1,27 @@
+state={
+	id=835
+	name="STATE_835"
+	
+	history = {
+		owner = CAL
+		add_core_of = CAL
+		add_claim_by = USA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+			}
+		victory_points = {
+			10422 10 
+		}
+	}
+	
+	provinces={
+		4736 10422 12134 
+	}
+	manpower=52849
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}
